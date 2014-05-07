@@ -32,7 +32,7 @@ Lessons will go out on Monday mornings and homework will be due the following Mo
 
 ## Installing R and RStudio
 
-R can be installed from the [CRAN website](http://cran.us.r-project.org/). Windows users working under enterprise security restrictions, should work with their IT staff to install R in a location that allows proper write permissions. For AFSC users, the current best practice is to change the install location/path of R to your 'D' drive. AFSC windows users should NOT install R, RStudio or any of the supporting programs to the 'My Documents' folder. 
+R can be installed from the [CRAN website](http://cran.us.r-project.org/). Windows users working under enterprise security restrictions, should work with their IT staff to install R in a location that allows proper write permissions. For AFSC users, the current best practice is to change the install location/path of R to your 'D' drive or to a specified directory at the root of your C drive (e.g. C:/R). AFSC windows users should NOT install R, RStudio or any of the supporting programs to the 'My Documents' folder. 
 
 OS X and Linux users should be able to install R with typical settings and less headache.
 
